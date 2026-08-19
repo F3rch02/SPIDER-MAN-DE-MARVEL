@@ -2,5 +2,6 @@ body{
     background: linear-gradient(to right, #0000ff,#ff0000, #0000ff);
 }
 .titulo{
+    text-aling:center;
     color:yellow;
 }
